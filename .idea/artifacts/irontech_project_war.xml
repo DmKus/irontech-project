@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="irontech-project:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="BookApp.war">
-      <element id="artifact" artifact-name="irontech-project:war exploded" />
-    </root>
-  </artifact>
-</component>
